@@ -1,40 +1,38 @@
-# Hi there, I'm Piyumi Madushani. 👋
+# Hi there, I'm Piyumi 👋
 
-I'm a first-year student passionate about software development and technology. I love building applications that solve real-world problems and enhance user experiences.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source projects, and continuous learning. Here's a little bit about me:
 
-## 🚀 Skills
+## 🚀 About Me
 
-- **Languages**: JavaScript, CSS, PHP, C, C++, Python, SQL
-- **Frameworks**: Bootstrap, Qt, Angular, React, .net 
-- **Databases**: SQLite, MySQL
-- **Tools**: Git, GitHub, Visual Studio, Qt Creator, Stack Overflow, Atom
+- 🔭 I’m currently working on various open-source projects and personal development.
+- 🌱 I’m currently learning new programming languages and frameworks.
+- 👯 I’m looking to collaborate on open-source projects.
+- 🤔 I’m looking for help with advanced algorithms and system design.
+- 💬 Ask me about software development, web development, and open-source contributions.
+- 📫 How to reach me: [Email](mailto:piumimjha.com)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: 🌍 I enjoy traveling and exploring nature.
+- 🎶 I'm a fan of music and dramas.
+- 💻 I love learning new programming languages and technologies!
 
-## 🌟 Projects
+## 🛠️ Languages and Tools
 
-Here are some of my notable projects:
+- **Languages:** JavaScript, CSS, PHP, C, C++, Python, SQL
+- **Frameworks and Libraries:** React, Node.js, Express, Bootstrap, Qt, Angular, React, .NET
+- **Databases:** SQLite, MySQL
+- **Tools:** Git, GitHub, Visual Studio, Qt Creator, Stack Overflow, Atom
 
-- **[Personal Organizer](https://github.com/Piyumi2025/personal-organizer)**: A comprehensive application for tracking income, expenses, and academic schedules, built using Qt and SQLite.
-- **[Web Project](https://github.com/Piyumi2025/WebProject)**: 
-- **[Mysite](https://github.com/Piyumi2025/Mysite)**:
+## 📈 GitHub Stats
+
+![Piyumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyumi2025&show_icons=true&theme=radical)
 
 ## 🎓 Education
+Currently pursuing a degree in Information Technology at Rajarata University of Sri Lanka.
 
-Currently pursuing a degree in Information Technology at Rajarata University Sri Lanka. 
+## 📫 Connect with Me
 
-## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/piyumi2025/)
+- [Twitter](https://twitter.com/piyumi2025)
+- [Dev.to](https://dev.to/piyumi2025)
 
-Feel free to reach out!
-
-- Email: piumimjha@gmail.com.com
-- LinkedIn: [linkedin.com/in/piyumi-madushani-188704253](https://www.linkedin.com/in/piyumi-madushani-188704253/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
-
-## 🎉 Fun Facts
-
-- I enjoy Travelling and exploring nature.
-- I'm a fan of Music and Dramas.
-- I love learning new programming languages and technologies!
-
----
-
-Thank you for visiting my profile! I'm always open to collaboration and learning new things. Let's connect!
+Thank you for visiting my profile! Let's connect and collaborate on exciting projects!
