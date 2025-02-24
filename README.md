@@ -24,6 +24,15 @@ Welcome to my GitHub account! I'm Piyumi Madushani, an undergraduate student at 
 - **Databases:** SQLite, MySQL
 - **Tools:** Git, GitHub, Visual Studio, Qt Creator, Stack Overflow, Atom
 
+## 🛠️ Most Used Languages
+- JavaScript
+- CSS
+- PHP
+- C
+- C++
+- Python
+- SQL
+
 ## 📈 GitHub Stats
 
 ![Piyumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyumi2025&show_icons=true&theme=radical)
