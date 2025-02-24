@@ -1,6 +1,8 @@
-# Hi there, I'm Piyumi 👋
+# Hi there, I'm Piyumi Madushani! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source projects, and continuous learning. Here's a little bit about me:
+Welcome to my GitHub account! I'm Piyumi Madushani, an undergraduate student at Rajarata University of Sri Lanka, in the Faculty of Applied Science, Department of Computing. I'm passionate about software development and technology. I love building applications that solve real-world problems and enhance user experiences.
+
+![Profile Banner](https://link-to-your-banner-image.com/banner.png) <!-- Optional: Add a banner image -->
 
 ## 🚀 About Me
 
@@ -29,10 +31,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 🎓 Education
 Currently pursuing a degree in Information Technology at Rajarata University of Sri Lanka.
 
-## 📫 Connect with Me
+## 📫 Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/piyumi2025/)
-- [Twitter](https://twitter.com/piyumi2025)
-- [Dev.to](https://dev.to/piyumi2025)
+Feel free to reach out!
 
-Thank you for visiting my profile! Let's connect and collaborate on exciting projects!
+- 📧 Email: [piumimjha@gmail.com](mailto:piumimjha@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/piyumi-madushani-188704253](https://www.linkedin.com/in/piyumi-madushani-188704253/)
+
+
+Thank you for visiting my profile! I'm always open to collaboration and learning new things. Let's connect! 🤝
