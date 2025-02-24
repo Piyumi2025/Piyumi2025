@@ -13,7 +13,7 @@ I'm a first-year student passionate about software development and technology. I
 
 Here are some of my notable projects:
 
-- **[Personal Organizer](https://github.com/yourusername/personal-organizer)**: A comprehensive application for tracking income, expenses, and academic schedules, built using Qt and SQLite.
+- **[Personal Organizer](https://github.com/Piyumi2025/personal-organizer)**: A comprehensive application for tracking income, expenses, and academic schedules, built using Qt and SQLite.
 - **[Web Project](https://github.com/Piyumi2025/WebProject)**: 
 - **[Mysite](https://github.com/Piyumi2025/Mysite)**:
 
