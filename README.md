@@ -2,7 +2,7 @@
 
 Welcome to my GitHub account! I'm Piyumi Madushani, an undergraduate student at Rajarata University of Sri Lanka, in the Faculty of Applied Science, Department of Computing. I'm passionate about software development and technology. I love building applications that solve real-world problems and enhance user experiences.
 
-![Profile Banner](https://link-to-your-banner-image.com/banner.png) <!-- Optional: Add a banner image -->
+![Profile Banner](https://github.com/Piyumi2025/Piyumi2025/blob/main/banner.png) <!-- Optional: Add a banner image -->
 
 ## 🚀 About Me
 
