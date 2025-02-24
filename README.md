@@ -26,7 +26,7 @@ Currently pursuing a degree in Information Technology at Rajarata University Sri
 Feel free to reach out!
 
 - Email: piumimjha@gmail.com.com
-- LinkedIn: linkedin.com/in/piyumi-madushani-188704253
+- LinkedIn: [linkedin.com/in/piyumi-madushani-188704253](https://www.linkedin.com/in/piyumi-madushani-188704253/)
 - Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
 
 ## 🎉 Fun Facts
