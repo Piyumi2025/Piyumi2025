@@ -53,8 +53,7 @@ Currently pursuing a degree in Information Technology at Rajarata University of 
 Feel free to reach out!
 
 <p>
-  
-  <a href="https://[www.linkedin.com/in/piyumi-madushani-188704253](https://www.linkedin.com/in/piyuu01/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/piyuu01/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:piumimjha@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/PiyumiMadushani"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
