@@ -42,7 +42,9 @@ Currently pursuing a degree in Information Technology at Rajarata University of 
 <p> ⚡ Fun fact: 🌍 I enjoy Traveling and Exploring nature.</p>
 <p> 🎶 I'm a fan of Music and Dramas.</p>
 <p> 💻 I love learning new programming languages and technologies!</p>
-
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Piyumi2025&label=Profile%20views&color=0e75b6&style=flat" alt="Piyumi2025" /> 
+</p>
 </div>
 <div align="center">
   
@@ -56,7 +58,6 @@ Feel free to reach out!
   <a href="mailto:piumimjha@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/PiyumiMadushani"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
-  
   </div>
   
 <div align="center">
