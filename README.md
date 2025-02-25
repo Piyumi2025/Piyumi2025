@@ -3,14 +3,14 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone!+👋🏻;+I'm+Piyumi+Madushani!+🧚🏻‍♀;An+Undergraduate+Student🎓✨;+Software+Developer+👩🏻‍💻;&color=0000FF" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone!+👋🏻;+I'm+Piyumi+Madushani!+🧚🏻‍♀;An+Undergraduate+Student🎓✨;+Software+Developer+👩🏻‍💻;&color=CF9FFF&background=000000" />
 </h1>
 
 
 <h3 align="center">  I'm Piyumi Madushani, an undergraduate student at Rajarata University of Sri Lanka, in the Faculty of Applied Science, Department of Computing. I'm passionate about software development and technology. I love building applications that solve real-world problems and enhance user experiences.</h3>
 
 <div align="center">
-  <img alt="image" src="me.gif" width="600px">
+  <img alt="image" src="me.gif" width="500px">
 </div>
 
 <div align="center">
@@ -53,6 +53,7 @@ Feel free to reach out!
 <p>
   
   <a href="https://www.linkedin.com/in/piyumi-madushani-188704253"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:piumimjha@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/PiyumiMadushani"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
   
