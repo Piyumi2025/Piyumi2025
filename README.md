@@ -23,7 +23,7 @@ Currently pursuing a degree in Information Technology at Rajarata University of 
   ## 🛠️ Languages and Tools
 
 <p> Languages: JavaScript, CSS, PHP, C, C++, Python</p> 
-<p> Frameworks and Libraries: React, Node.js, Express, Bootstrap, Qt, Angular, React, .NET</p> 
+<p> Frameworks and Libraries: React, Node.js, Express, Bootstrap, Qt, Angular, .NET</p> 
 <p> Databases: SQLite, MySQL</p> 
 <p> Tools: Git, GitHub, Visual Studio, Qt Creator, Stack Overflow, Atom</p> 
 
