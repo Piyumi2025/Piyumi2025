@@ -105,6 +105,13 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=Piyumi2025&color=blueviolet&style=for-the-badge)
+
+---
+
+![snake gif](https://github.com/Piyumi2025/Piyumi2025/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 📫 Connect With Me  
 
 <div align="center">
