@@ -64,6 +64,7 @@
 </div>
 
 ---
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7A7F2&width=600&lines=Full+Stack+Developer;Open+Source+Lover;AI+%26+Cloud+Explorer;Always+Learning+🚀" />
 
 ## 🚀 About Me  
 
