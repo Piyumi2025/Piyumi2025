@@ -176,8 +176,11 @@
 
 ---
 
-![snake gif](https://github.com/Piyumi2025/Piyumi2025/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Piyumi2025/Piyumi2025/main/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</div>
 
+---
 
 ## 📫 Connect With Me  
 
