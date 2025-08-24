@@ -31,37 +31,105 @@
 ## 🛠️ Tech Arsenal  
 
 <div align="center">
+## 💻 Languages
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" alt="C#" width="50" height="50"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" width="50" height="50"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python.svg" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP.svg" alt="PHP" width="50" height="50"/>
+  </a>
+</p>
 
-### 💻 Languages  
-![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/PHP-6e83b9?style=for-the-badge&logo=php&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)  
+## ⚙️ Frameworks & Libraries
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="50" height="50"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Next.js" width="50" height="50"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="50" height="50"/>
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50" height="50"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Express.svg" alt="Express" width="50" height="50"/>
+  </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular.svg" alt="Angular" width="50" height="50"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/.NET.svg" alt=".NET" width="50" height="50"/>
+  </a>
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Qt.svg" alt="Qt" width="50" height="50"/>
+  </a>
+</p>
 
-### ⚙️ Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-6f2cf3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)  
+## 🗄️ Databases
+<p align="center">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="50" height="50"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQLite" width="50" height="50"/>
+  </a>
+</p>
 
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
-
-### 🛠 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)  
-![Visual Studio](https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)  
-![Qt Creator](https://img.shields.io/badge/Qt%20Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white)  
-![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white)  
-![Atom](https://img.shields.io/badge/Atom-3a3a3a?style=for-the-badge&logo=atom&logoColor=white)  
+## 🛠 Tools & Platforms
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitHub.svg" alt="GitHub" width="50" height="50"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VS Code" width="50" height="50"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="Visual Studio" width="50" height="50"/>
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="Photoshop" width="50" height="50"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino" width="50" height="50"/>
+  </a>
+  <a href="https://stackoverflow.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Stack-Overflow.svg" alt="Stack Overflow" width="50" height="50"/>
+  </a>
+  <a href="https://atom.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Atom.svg" alt="Atom" width="50" height="50"/>
+  </a>
+</p>
 
 </div>
+
 
 ---
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7A7F2&width=600&lines=Full+Stack+Developer;Open+Source+Lover;AI+%26+Cloud+Explorer;Always+Learning+🚀" />
