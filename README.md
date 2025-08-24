@@ -10,7 +10,7 @@
 
 <h3 align="center"> 
 ✨ Undergraduate IT Student @ Rajarata University of Sri Lanka ✨ <br>  
-💡 Passionate about **software engineering, open-source, and creating innovative solutions**.  
+💡 Passionate about software engineering, open-source, and creating innovative solutions.  
 </h3>  
 
 ---
@@ -23,7 +23,7 @@
 
 ## 🎓 Education  
 
-- 🎓 **B.Sc. (Hons) in Information Technology**  
+- 🎓 **B.Sc in Information Technology** 
 - 📍 Rajarata University of Sri Lanka  
 
 ---
@@ -102,27 +102,6 @@
 ## 📈 Activity Graph  
 
 ![Piyumi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Piyumi2025&theme=tokyo-night&hide_border=true)  
-
----
-
-## 📺 Latest YouTube / Blogs  
-
-<!-- Replace with your YouTube/Blog RSS feed if available -->
-- 🎥 [My Tech Journey | Coming Soon](#)  
-- ✍️ [Medium Blog Posts | Coming Soon](#)  
-
----
-
-## 🎯 Fun Extras  
-
-- 🎵 **Now Playing on Spotify**  
-  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/)  
-
-- 🕹️ **Random Dev Quote**  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
-- 🐍 **Contribution Snake Game**  
-  ![snake gif](https://github.com/Piyumi2025/Piyumi2025/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
