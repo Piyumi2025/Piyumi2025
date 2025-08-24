@@ -3,14 +3,14 @@
 </div>
 
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=CF9FFF&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Piyumi+Madushani+🧚🏻‍♀;Undergraduate+%7C+Developer+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=CF9FFF&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Piyumi+Madushani+🧚🏻‍♀;Undergraduate+Student🎓;Software+Developer+💻;Tech+Enthusiast+🚀;Open-Source+Contributor🌍" alt="Typing SVG" />
 </h1>
 
 ---
 
 <h3 align="center"> 
-✨ Undergraduate IT student @ Rajarata University of Sri Lanka ✨ <br>  
-💡 Passionate about **software development, open-source, and building impactful solutions**  
+✨ Undergraduate IT Student @ Rajarata University of Sri Lanka ✨ <br>  
+💡 Passionate about **software engineering, open-source, and creating innovative solutions**.  
 </h3>  
 
 ---
@@ -24,7 +24,7 @@
 ## 🎓 Education  
 
 - 🎓 **B.Sc. (Hons) in Information Technology**  
-- 📍 *Rajarata University of Sri Lanka*  
+- 📍 Rajarata University of Sri Lanka  
 
 ---
 
@@ -67,13 +67,13 @@
 
 ## 🚀 About Me  
 
-- 🔭 Currently working on **open-source projects** & **personal dev**  
-- 🌱 Learning **new frameworks, system design & algorithms**  
-- 👯 Open to **collaborating on open-source & research projects**  
+- 🔭 Currently working on **open-source projects** & **personal apps**  
+- 🌱 Learning **cloud, AI, and advanced system design**  
+- 👯 Love collaborating on **open-source & research projects**  
 - 💬 Ask me about **Web, Software & Open-Source contributions**  
 - 📧 Reach me: [piumimjha@gmail.com](mailto:piumimjha@gmail.com)  
 - 😄 Pronouns: *She/Her*  
-- ⚡ Fun fact: 🌍 Love **travel, music, and exploring nature**  
+- ⚡ Fun fact: 🌍 Love **traveling, music, and exploring nature**  
 
 ---
 
@@ -89,13 +89,40 @@
 
 ---
 
-## 🏆 Achievements & Badges  
+## 🏆 Achievements  
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Piyumi2025&theme=onedark&no-frame=true&margin-w=15&margin-h=15)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Piyumi2025&theme=matrix&no-frame=true&margin-w=15&margin-h=15)  
 
 </div>
+
+---
+
+## 📈 Activity Graph  
+
+![Piyumi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Piyumi2025&theme=tokyo-night&hide_border=true)  
+
+---
+
+## 📺 Latest YouTube / Blogs  
+
+<!-- Replace with your YouTube/Blog RSS feed if available -->
+- 🎥 [My Tech Journey | Coming Soon](#)  
+- ✍️ [Medium Blog Posts | Coming Soon](#)  
+
+---
+
+## 🎯 Fun Extras  
+
+- 🎵 **Now Playing on Spotify**  
+  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/)  
+
+- 🕹️ **Random Dev Quote**  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+- 🐍 **Contribution Snake Game**  
+  ![snake gif](https://github.com/Piyumi2025/Piyumi2025/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
@@ -113,8 +140,8 @@
 
 <div align="center">
   
-✨ Thanks for visiting my profile!  
-⚡ Always open to **collaboration, research, and learning new things.**  
-🚀 Let’s connect & create something amazing together!  
+✨ Thanks for stopping by!  
+⚡ Let’s connect & create something amazing 🚀  
+💡 *“Code is like humor. When you have to explain it, it’s bad.”*  
 
 </div>
