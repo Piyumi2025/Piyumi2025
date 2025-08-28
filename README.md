@@ -160,15 +160,9 @@
 
 ![Piyumi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Piyumi2025&theme=tokyo-night&hide_border=true)  
 
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Piyumi2025&color=blueviolet&style=for-the-badge)
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Piyumi2025/Piyumi2025/main/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</div>
 
 ---
 
