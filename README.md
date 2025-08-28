@@ -156,16 +156,6 @@
 
 ---
 
-## 🏆 Achievements  
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Piyumi2025&theme=matrix&no-frame=true&margin-w=15&margin-h=15)  
-
-</div>
-
----
-
 ## 📈 Activity Graph  
 
 ![Piyumi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Piyumi2025&theme=tokyo-night&hide_border=true)  
