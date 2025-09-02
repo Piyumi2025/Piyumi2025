@@ -140,7 +140,7 @@
 - 💬 Ask me about **Web, Software & Open-Source contributions**  
 - 📧 Reach me: [piumimjha@gmail.com](mailto:piumimjha@gmail.com)  
 - 😄 Pronouns: *She/Her*  
-- ⚡ Fun fact: 🌍 Love **traveling, music, and exploring nature**  
+- ⚡ Fun fact:  Love **traveling, music, and exploring nature**  
 
 ---
 
