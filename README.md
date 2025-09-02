@@ -181,7 +181,7 @@
 <div align="center">
   
 ✨ Thanks for stopping by!  
-⚡ Let’s connect & create something amazing 🚀  
+⚡ Let’s connect & create something amazing  🚀  
 💡 *“Code is like humor. When you have to explain it, it’s bad.”*  
 
 </div>
