@@ -64,10 +64,6 @@
 
 - 🔭 Working on **open-source projects** & **personal apps**  
 - 🌱 Exploring **Cloud, AI, and Advanced System Design**  
-- 🎯 2025 Goals:  
-  - Contribute to **5+ major open-source projects**  
-  - Publish **research paper** in CS/AI  
-  - Build & deploy **SaaS app** 🚀  
 - 💬 Ask me about **Web, Software & Open-Source**  
 - 📧 [piumimjha@gmail.com](mailto:piumimjha@gmail.com)  
 - 😄 Pronouns: *She/Her*  
@@ -75,14 +71,6 @@
 
 ---
 
-## 📜 Certifications & Courses  
-
-- 🏅 **CS50’s Introduction to Computer Science** – Harvard  
-- 🏅 **Google Cloud Fundamentals**  
-- 🏅 **AWS Academy Cloud Foundations**  
-- 🏅 **FreeCodeCamp Web Dev Certification**  
-
----
 
 ## 📊 GitHub Analytics  
 
@@ -113,24 +101,6 @@
 - 🔹 [**Memory Match Game 🎮**](https://github.com/yourrepo) — Python + Pygame, 32 levels, high scores  
 - 🔹 [**Travel Planner ✈️**](https://github.com/yourrepo) — PHP + MySQL, full CRUD with validation  
 - 🔹 [**Recipe Manager 🍲**](https://github.com/yourrepo) — Python (Kivy), SQLite meal planner  
-
----
-
-## 🎶 Now Playing on Spotify  
-
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="400"/>
-  </a>
-</p>
-
----
-
-## 🐍 Contribution Snake  
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Piyumi2025/Piyumi2025/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>  
 
 ---
 
