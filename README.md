@@ -19,6 +19,16 @@
 
 ---
 
+## 🌟 Quick Stats  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Followers-200+-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Stars-100+-purple?style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=Piyumi2025&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
+
 ## 🎓 Education  
 
 - **B.Sc in Information Technology**  
@@ -54,11 +64,23 @@
 
 - 🔭 Working on **open-source projects** & **personal apps**  
 - 🌱 Exploring **Cloud, AI, and Advanced System Design**  
-- 👯 Open to collaboration on **Research & OSS**  
+- 🎯 2025 Goals:  
+  - Contribute to **5+ major open-source projects**  
+  - Publish **research paper** in CS/AI  
+  - Build & deploy **SaaS app** 🚀  
 - 💬 Ask me about **Web, Software & Open-Source**  
 - 📧 [piumimjha@gmail.com](mailto:piumimjha@gmail.com)  
 - 😄 Pronouns: *She/Her*  
 - ⚡ Fun fact: Love **traveling, music & nature**  
+
+---
+
+## 📜 Certifications & Courses  
+
+- 🏅 **CS50’s Introduction to Computer Science** – Harvard  
+- 🏅 **Google Cloud Fundamentals**  
+- 🏅 **AWS Academy Cloud Foundations**  
+- 🏅 **FreeCodeCamp Web Dev Certification**  
 
 ---
 
@@ -94,6 +116,24 @@
 
 ---
 
+## 🎶 Now Playing on Spotify  
+
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="400"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Piyumi2025/Piyumi2025/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>  
+
+---
+
 ## 📫 Connect With Me  
 
 <div align="center">
@@ -106,8 +146,15 @@
 
 ---
 
+## 💡 Quote of the Day  
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." — Cory House</i>
+</p>
+
+---
+
 <div align="center">  
 ✨ Thanks for stopping by!  
 ⚡ Let’s connect & build something amazing 🚀  
-💡 *“Code is like humor. When you have to explain it, it’s bad.”*  
 </div>
