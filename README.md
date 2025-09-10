@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center">✨ Undergraduate IT Student @ Rajarata University of Sri Lanka ✨</h3>  
+<h3 align="center">✨Undergraduate IT Student @ Rajarata University of Sri Lanka ✨</h3>  
 <p align="center">💡 Passionate about software engineering, open-source, and creating innovative solutions.</p>  
 
 ---
