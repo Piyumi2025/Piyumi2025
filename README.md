@@ -3,23 +3,23 @@
 </div>
 
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=CF9FFF&center=true&vCenter=true&width=650&lines=Hey+There!+👋;I'm+Piyumi+Madushani+🧚🏻‍♀;Undergraduate+Student+🎓;Software+Developer+💻;Tech+Enthusiast+🚀;Open-Source+Contributor+🌍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=CF9FFF&center=true&vCenter=true&width=650&lines=Hey+There!+👋;I'm+Piyumi+Madushani+🧚🏻‍♀;Undergraduate+IT+Student+🎓;Aspiring+Software+Engineer+💻;Tech+Explorer+🚀;Open-Source+Contributor+🌍" alt="Typing SVG" />
 </h1>
 
 ---
 
-<h3 align="center">✨ Undergraduate IT Student @ Rajarata University of Sri Lanka ✨</h3>  
-<p align="center">💡 Passionate about software engineering, open-source, and creating innovative solutions.</p>  
+<h3 align="center">✨ B.Sc. (Hons) in IT | Rajarata University of Sri Lanka ✨</h3>  
+<p align="center">💡 Passionate about building scalable software, exploring new technologies, and contributing to the open-source community.</p>  
 
 ---
 
 <div align="center">
-  <img src="me.gif" width="300px">
+  <img src="me.gif" width="280px">
 </div>
 
 ---
 
-## 🌟 Quick Stats  
+## 🌟 Quick Snapshot  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Followers-200+-blue?style=for-the-badge&logo=github" />
@@ -31,12 +31,12 @@
 
 ## 🎓 Education  
 
-- **B.Sc in Information Technology**  
+- **B.Sc (Hons) in Information Technology**  
   📍 Rajarata University of Sri Lanka  
 
 ---
 
-## 🛠️ Tech Arsenal  
+## 🛠️ Tech Stack  
 
 ### 💻 Languages  
 <p align="center">
@@ -62,15 +62,14 @@
 
 ## 🚀 About Me  
 
-- 🔭 Working on **open-source projects** & **personal apps**  
-- 🌱 Exploring **Cloud, AI, and Advanced System Design**  
-- 💬 Ask me about **Web, Software & Open-Source**  
-- 📧 [piumimjha@gmail.com](mailto:piumimjha@gmail.com)  
+- 🔭 Currently working on **open-source projects** & **personal apps**  
+- 🌱 Learning **Cloud Computing, AI, and Advanced Software Design**  
+- 💬 Ask me about **Web Development, Software Engineering & Open-Source**  
+- 📧 Reach me: [piumimjha@gmail.com](mailto:piumimjha@gmail.com)  
 - 😄 Pronouns: *She/Her*  
-- ⚡ Fun fact: Love **traveling, music & nature**  
+- ⚡ Fun fact: I love **traveling, music, and nature** 🌿  
 
 ---
-
 
 ## 📊 GitHub Analytics  
 
@@ -90,7 +89,7 @@
 
 ---
 
-## 📈 Activity Graph  
+## 📈 Contribution Graph  
 
 ![Piyumi's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Piyumi2025&theme=tokyo-night&hide_border=true)  
 
@@ -98,13 +97,13 @@
 
 ## 📂 Featured Projects  
 
-- 🔹 [**Memory Match Game 🎮**](https://github.com/yourrepo) — Python + Pygame, 32 levels, high scores  
-- 🔹 [**Travel Planner ✈️**](https://github.com/yourrepo) — PHP + MySQL, full CRUD with validation  
-- 🔹 [**Recipe Manager 🍲**](https://github.com/yourrepo) — Python (Kivy), SQLite meal planner  
+- 🔹 [**Memory Match Game 🎮**](https://github.com/yourrepo) — *Python + Pygame*, 32 levels, high scores  
+- 🔹 [**Travel Planner ✈️**](https://github.com/yourrepo) — *PHP + MySQL*, CRUD + validation  
+- 🔹 [**Recipe Manager 🍲**](https://github.com/yourrepo) — *Python (Kivy)*, SQLite, meal planner  
 
 ---
 
-## 📫 Connect With Me  
+## 📫 Let’s Connect  
 
 <div align="center">
 
@@ -125,6 +124,6 @@
 ---
 
 <div align="center">  
-✨ Thanks for stopping by!  
-⚡ Let’s connect & build something amazing 🚀  
-</div>
+✨ Thanks for visiting my profile!  
+⚡ Let’s connect, collaborate, and build amazing things 🚀  
+</div>  
