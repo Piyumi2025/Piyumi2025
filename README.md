@@ -74,10 +74,19 @@
 ## 📊 GitHub Analytics  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyumi2025&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="170px"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyumi2025&theme=tokyonight&layout=compact&hide_border=true" height="170px"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyumi2025&theme=tokyonight&hide_border=true" height="170px"/>  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Piyumi2025&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="170px"/>  
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyumi2025&theme=tokyonight&layout=compact&hide_border=true" height="170px"/>  
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyumi2025&theme=tokyonight&hide_border=true" height="170px"/>  
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
