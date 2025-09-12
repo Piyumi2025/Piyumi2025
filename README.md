@@ -97,9 +97,9 @@
 
 ## 📂 Featured Projects  
 
-- 🔹 [**Memory Match Game 🎮**](https://github.com/yourrepo) — *Python + Pygame*, 32 levels, high scores  
-- 🔹 [**Travel Planner ✈️**](https://github.com/yourrepo) — *PHP + MySQL*, CRUD + validation  
-- 🔹 [**Recipe Manager 🍲**](https://github.com/yourrepo) — *Python (Kivy)*, SQLite, meal planner  
+- 🔹 [**Memory Match Game 🎮**](https://github.com/Piyumi2025/MemoryMatchGame) — *Python + Pygame*, 32 levels, high scores  
+- 🔹 [**Travel Planner ✈️**](https://github.com/Piyumi2025/WebProject_TravelPlanner) — *PHP + MySQL*, CRUD + validation  
+- 🔹 [**Recipe Manager 🍲**](https://github.com/Piyumi2025/RecipePlannerApp) — *Python (Kivy)*, SQLite, meal planner  
 
 ---
 
