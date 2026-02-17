@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center"> ✨B.Sc. (Hons) in IT | Rajarata University of Sri Lanka ✨</h3>  
+<h3 align="center"> ✨B.Sc in IT | Rajarata University of Sri Lanka ✨</h3>  
 <p align="center">💡 Passionate about building scalable software, exploring new technologies, and contributing to the open-source community.</p>  
 
 ---
